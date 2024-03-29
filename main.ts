@@ -9,6 +9,7 @@ let pinAnswer= await inquirer.prompt([{
     message: "Enter your correct pin",
     type: "number"
 }]);
+
 // CONDITIONAL STATEMENT
  if(pinAnswer.pin === myPin){
     console.log("Correct pin code!!!");
