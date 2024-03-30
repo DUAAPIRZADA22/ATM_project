@@ -1,9 +1,9 @@
 {
-  "name": "duaa_pirzada_atm_project",
-  "version": "1.0.0",
+  "name": "duapirzada_atm_project",
+  "version": "2.0.2",
   "description": "",
   "main": "index.js",
-  "bin": "index.js",
+  "bin": "main.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
